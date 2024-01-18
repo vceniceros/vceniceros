@@ -1,6 +1,6 @@
 # ¡Hola! 👋
 
-Soy Valentino (haizara) Ceniceros, soy un programador y desarrollador web actualmente estudiando ingenieria informatica y profesionalizado en desarrollo web.
+Soy Valentino (Haizara) Ceniceros. Soy un programador y desarrollador web actualmente estudiando Ingeniería Informática y profesionalizado en desarrollo web. Aspiro a poder participar en muchos proyectos y aprender de muchos lenguajes y áreas de la informática. Este mundo y la programación son mi pasión.
 
 ## Proyectos Destacados
 
