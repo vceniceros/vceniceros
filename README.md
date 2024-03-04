@@ -14,7 +14,7 @@ Soy Valentino (Haizara) Ceniceros. Soy un programador y desarrollador web actual
 ## Contacto
 
 - 📧 Correo Electrónico: vceniceros2001@gmail.com
-- 💼 LinkedIn: [Valentino (haizara-tech) Ceniceros](https://www.linkedin.com/in/tuperfillinkedin/](https://www.linkedin.com/in/valentino-ceniceros-85501b1a0/))
+- 💼 LinkedIn: [Valentino (haizara-tech) Ceniceros](https://www.linkedin.com/in/valentinoceniceros/))
 - 🌐 Sitio Web: [haizara-tech](https://haizara-tech.com.ar)
 
 ¡Gracias por visitar mi perfil! 😊
