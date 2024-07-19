@@ -10,7 +10,7 @@ Soy Valentino (Haizara) Ceniceros. Soy un programador y desarrollador web actual
 4. [Carpincho_tp3](https://github.com/FS-Grimm/carpincho_TP3)- Es un trabajo practico grupal de la materia de algoritmos y estructuras de datos en el cual participe (la cuenta de github vceniceros que figura ahi es mi cuenta de la facultad de ingenieria de la uba) esta hecho completamente en c++.
 5. [Nem-muay-thai-page](https://github.com/vceniceros/nem-muay-thai-dev) - Es el ultimo proyecto en cual estuve trabajando, una landing page de un gimnasio, el front-end esta hecho en react y el backend en laravel.
 6. [Sistema-de-visualizacion-de-proyectos-inmoviliarios](https://github.com/vceniceros/sistema_visualizacion_proyectos) - formo parte de una prueba técnica y consta de un backend en flask y un front en react typescript, sirve para marcar proyectos en un mapa.
-
+7. [Algohoot3]([https://github.com/vceniceros/sistema_visualizacion_proyectos](https://github.com/laldonate96/Algo3-TP2)) - Es un trabajo practico grupal de paradigmas de programacion, esta hecho en java y utiliza css para la vista.
 ## Contacto
 
 - 📧 Correo Electrónico: vceniceros2001@gmail.com
