@@ -12,6 +12,7 @@ Soy Valentino (Haizara) Ceniceros. Soy un programador y desarrollador web actual
 6. [Sistema-de-visualizacion-de-proyectos-inmoviliarios](https://github.com/vceniceros/sistema_visualizacion_proyectos) - formo parte de una prueba técnica y consta de un backend en flask y un front en react typescript, sirve para marcar proyectos en un mapa.
 7. [Algohoot3](https://github.com/laldonate96/Algo3-TP2) - Es un trabajo practico grupal de paradigmas de programacion, un juego de preguntas y respuestas, esta hecho en java y utiliza css para la vista.
 ## Contacto
+8. [Balatro](https://github.com/vceniceros/carpincho-tp2) - Es un trabajo practico grupal de paradigmas de programacion, un homenaje al juego de steam balatro, esta hecho en java y utiliza css para la vista.
 
 - 📧 Correo Electrónico: vceniceros2001@gmail.com
 - 💼 LinkedIn: [Valentino (haizara-tech) Ceniceros](https://www.linkedin.com/in/valentinoceniceros/))
