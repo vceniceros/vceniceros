@@ -13,6 +13,7 @@ Soy Valentino (Haizara) Ceniceros. Soy un programador y desarrollador web actual
 8. [Algohoot3](https://github.com/laldonate96/Algo3-TP2) - Es un trabajo practico grupal de paradigmas de programacion, un juego de preguntas y respuestas, esta hecho en java y utiliza css para la vista.
 9. [Balatro](https://github.com/vceniceros/carpincho-tp2) - Es un trabajo practico grupal de paradigmas de programacion, un homenaje al juego de steam balatro, esta hecho en java y utiliza css para la vista.
 10. [Sistema de gestion de canchas en futbol 5](https://gitlab.com/vceniceros2001/tpgrupo5) - Es un trabajo grupal de sistemas de gestion de canchas en futbol 5 hecho en springboot y react
+11. [prueba tecnica de desarrollo de api's](https://github.com/vceniceros/api-rest-banco-hipotecario) - fue una prueba tecnica para el banco hipotecario donde cree una api rest en quarkus que consumia informacion de la pagina jsonplaceholders
 
 ## Contacto
 
